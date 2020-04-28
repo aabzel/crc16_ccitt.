@@ -1,7 +1,4 @@
-/*
- * @author Aleksandr Barunin barunin@arrival.com
- *
- * */
+
 #ifndef CRC_16_CCITT_FALSE_H_
 #define CRC_16_CCITT_FALSE_H_
 
