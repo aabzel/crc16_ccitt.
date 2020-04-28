@@ -1,8 +1,6 @@
-/*
- * @author Aleksandr Barunin barunin@arrival.com
- *
- * */
+
 #include "crc16_ccitt.h"
+
 #include <stdint.h>
 
 static uint16_t calc_crc16_ccitt_false_fast (const uint8_t pDataf [], uint16_t const lengthf);
